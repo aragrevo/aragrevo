@@ -6,6 +6,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Systems Engineering at University UNAD.
 - 💼 &nbsp; Working as a Development and Analyst at Zoftinium S.A.S.
+- 🔗 &nbsp; <a href="https://www.canva.com/design/DADUDwcHSUE/OKxD_uATzd7K3qXcGrI8YQ/view?utm_content=DADUDwcHSUE&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank" rel="noopener"><span>Curriculum Vitae</span> </a>.
+
 
 ### 🛠 &nbsp;Tech Stack
 <!---
