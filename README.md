@@ -6,7 +6,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Systems Engineering at University UNAD.
 - 💼 &nbsp; Working as a Development and Analyst at Zoftinium S.A.S.
-- 🔗 &nbsp; <a href="https://www.canva.com/design/DADUDwcHSUE/OKxD_uATzd7K3qXcGrI8YQ/view?utm_content=DADUDwcHSUE&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank" rel="noopener"><span>Curriculum Vitae</span> </a>.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -48,6 +47,7 @@
 
 <p align="center">
   <a href="mailto:eduver_san@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduver_san@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.canva.com/design/DADUDwcHSUE/OKxD_uATzd7K3qXcGrI8YQ/view?utm_content=DADUDwcHSUE&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="blank" rel="noopener"><img alt="CV" src="https://img.shields.io/badge/CV-Curriculum vitae-blue?style=flat-square&logo=google-chrome"></a>
   <!---
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
