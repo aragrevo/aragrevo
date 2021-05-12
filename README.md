@@ -1,21 +1,13 @@
-### Hi there 👋
 
+## Hey there 👋! I'm Eduardo
 
-**aragrevo/aragrevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Aditya.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Systems Engineering at University UNAD.
+- 💼 &nbsp; Working as a Development and Analyst at Zoftinium S.A.S.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
