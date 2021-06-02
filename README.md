@@ -47,7 +47,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="mailto:eduver_san@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduver_san@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:eduardo.vergara.dev@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduardo.vergara.dev@outlook.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.canva.com/design/DADUDwcHSUE/OKxD_uATzd7K3qXcGrI8YQ/view?utm_content=DADUDwcHSUE&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="blank" rel="noopener"><img alt="CV" src="https://img.shields.io/badge/CV-Curriculum vitae-blue?style=flat-square&logo=google-chrome"></a>
   <!---
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
