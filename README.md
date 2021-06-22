@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="mailto:eduardo.vergara.dev@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduardo.vergara.dev@outlook.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.canva.com/design/DADUDwcHSUE/OKxD_uATzd7K3qXcGrI8YQ/view?utm_content=DADUDwcHSUE&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="blank" rel="noopener"><img alt="CV" src="https://img.shields.io/badge/CV-Curriculum vitae-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://docs.google.com/document/d/1cURfkhrg3dhmSeKqbgEfdbP5rh16XIdp1qvIeQRbShs/edit?usp=sharing" target="blank" rel="noopener"><img alt="CV" src="https://img.shields.io/badge/CV-Curriculum vitae-blue?style=flat-square&logo=google-chrome"></a>
   <!---
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
