@@ -4,8 +4,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Systems Engineering at University UNAD.
-- 💼 &nbsp; Working as a Development and Analyst at Zoftinium S.A.S.
+- 🎓 &nbsp; Systems Engineering at University UNAD.
+- 💼 &nbsp; Working as a Front Developer at Zoftinium S.A.S.
 
 
 ### 🛠 &nbsp;Tech Stack
