@@ -23,6 +23,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
