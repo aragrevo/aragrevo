@@ -29,6 +29,7 @@
 - 🎨 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui&logoColor=563D7C)
+   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css&logoColor=563D7C)
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -54,8 +55,8 @@
 <p align="center">
   <a href="mailto:eduardo.vergara.dev@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduardo.vergara.dev@outlook.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://docs.google.com/document/d/1cURfkhrg3dhmSeKqbgEfdbP5rh16XIdp1qvIeQRbShs/edit?usp=sharing" target="blank" rel="noopener"><img alt="CV" src="https://img.shields.io/badge/CV-Curriculum vitae-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://aragrevo-website.vercel.app" target="blank" rel="noopener"><img alt="Website" src="https://img.shields.io/badge/Website-aragrevo-blue?style=flat-square&logo=google-chrome"></a>
   <!---
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 
